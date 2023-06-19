@@ -5,6 +5,7 @@
 변수나 함수 그리고 클래스 이름은 존재 이유?, 수행 기능?, 사용 방법은? 이 세가지 질문에 답해야 한다
 
 잘못된 경우 : `int d`
+
 올바는 경우 : `int elapsedTImeInDays`, `int daysSinceCreation`
 
 잘못된 경우
